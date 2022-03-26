@@ -51,7 +51,6 @@ export default {
 
   beforeMount() {
     this.datapostingan = data;
-
     this.datapostingan.post.forEach(element => {
       if(element.id == this.$route.params.id) {
         this.dataDisplay = element
