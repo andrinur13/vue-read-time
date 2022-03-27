@@ -7,7 +7,7 @@
             <h3>{{this.dataDisplay.title}}</h3>
             <hr>
             <div>
-              {{time}} menit membaca
+              {{time}} m membaca
             </div>
           </div>
         </div>
